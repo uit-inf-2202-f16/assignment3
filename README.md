@@ -1,4 +1,4 @@
-# Mandatory assignment 3 | inf-2202 | Fall 2015
+# Mandatory assignment 3 | inf-2202 | Fall 2016
 
 Lars Ailo Bongo (larsab@cs.uit.no),
 Inge Alexander Raknes (inge.a.raknes@uit.no).

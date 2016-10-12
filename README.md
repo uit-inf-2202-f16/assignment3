@@ -28,11 +28,13 @@ Register at aws educate
 2.	Chose: Apply for AWS Educate for Students
 3.	Select that You are a student
 4.	Fill in the form:
+
 		a.	Institution name is: University of Tromsø - The Arctic University of Norway
 		b.	Field of study is: Computer Science
 		c.	Email: must be your uit.no address
         d.  Make sure the button for AWS Starter Account is selected
 		d.	Grade level is: Undergraduate – Intro Courses
+		
 5.	You will receive a confirmation email
 6.	Your account should have $75 in credit.
 7.  If you wish to add another 25$, register your creditcard.

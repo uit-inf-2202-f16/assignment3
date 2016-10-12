@@ -23,6 +23,7 @@ This is an individual assignment, and hence you must submit an individual report
 UiT has an institution account at AWS. As a student, you will therefore receive $100 in free credit that you can use for this assignment.  To register at AWS do the following.
 
 Register at aws educate
+
 1.	https://aws.amazon.com/education/awseducate/apply/
 2.	Chose: Apply for AWS Educate for Students
 3.	Select that You are a student
